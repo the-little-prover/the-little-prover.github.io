@@ -1,0 +1,25 @@
+body { color : #000000; background-color : white; background-attachment : fixed; background-position : center; background-repeat : no-repeat; margin : 20px; padding : 0px; font : 12px verdana, arial, helvetica, sans-serif; }
+code { color : blue; }
+pre { color : blue; }
+h1 { margin : 0px 0px 15px 0px; padding : 0px; font : 20px verdana, serif; font-weight : 800; color : #505050; }
+h2 { font : bold 12px/14px verdana, arial, helvetica, sans-serif; margin : 0px 0px 5px 0px; padding : 0px; }
+p.thin_para { width : 300px; }
+p.wide_para { width : 600px; }
+p { font : 12px/18px verdana, arial, helvetica, sans-serif; margin : 0px 0px 12px 0px; padding : 0px; }
+p.address { line-height : 15px; margin-left : 10px; }
+p.footer { position : relative; bottom : 0px; left : 160px; }
+table { font : 12px/18px verdana, arial, helvetica, sans-serif; }
+a { color : #525252; font-size : 11px; font-family : verdana, arial, helvetica, sans-serif; font-weight : 600; text-decoration : none; }
+a:link { color : #3399cc; }
+a:visited { color : #3399cc; }
+a:hover { color : #cc9933; }
+image.left { float : left; padding-right : 10px; }
+.float_right { position : relative; float : right; }
+table.show_border { border : 1px solid gray; }
+td.show_border { border : 1px solid gray; }
+td.label { text-align : right; font-weight : bold; padding-right : 8px; }
+.outline_box, .title_box { overflow : auto; position : relative; width : auto; min-width : 120px; margin : 10px 150px 20px 160px; border : 1px dotted gray; background : transparent; padding : 10px; z-index : 3; }
+div.separator { height : 0.7em; }
+#navalpha { position : absolute; width : 150px; top : 60px; left : 15px; border : none; background : transparent; padding : 10px; z-index : 2; }
+#navalpha ul { list-style : none; line-height : 1.5em; margin : 0; padding : 0; border : none; }
+#navalpha ul li hr { }
